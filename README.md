@@ -1,0 +1,8 @@
+Question 1- Code executes multiples of consecutive integers starting from 1 until the prouct goes over the user given threshold value, and then prints the final product and the integer that caused the threshold to be exceeded
+Question 2- Function in the code takes a list of strings and in turn returns a dictionary where each string is a key and its value is a nested dictionary where it contains a) strings length and b) if the length is even or odd
+Question 3- Function in the code computes a number raised to a power, and then goes through a list of number pairs, which alsol skips pairs with negative exponents, and then stores the final results in an empty list and printed at the end
+Question 4- Code makes a list of random numbers that are between 1 and 0, sorts this list, and then finds the index of the first value that is greater than or equal to the randomly generated value for comparision
+Question 5- Code asks for input of two radii and validates it, computing both of the area circles and calculates the percentage of the larger circle's area covered by the smaller circle area with a function
+Question 6- Code takes a list of numbers and returns a dictionary for each unique number, and the percentage of list elements that are either less than or equal to it
+Question 7- Code converts seconds before midnight from the user into a 12 hour clock time that has hours, minutes, seconds, and is able to indicate if its AM or PM and checks if the input is valid
+Question 8- Code creates a pandas dataframe from data given to us and adds a new column that multiples the values of column A and column C
